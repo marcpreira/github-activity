@@ -9,7 +9,7 @@ let duck = sprites.create(img`
     . b b b d 5 5 5 5 5 4 4 4 4 4 b 
     b d d d b b d 5 5 4 4 4 4 4 b . 
     b b d 5 5 5 b 5 5 5 5 5 5 b . . 
-    c d c 5 5 5 5 d 5 5 5 5 5 5 b . 
+    c d c 5 3 5 5 d 5 5 5 5 5 5 b . 
     c b d c d 5 5 b 5 5 5 5 5 5 b . 
     . c d d c c b d 5 5 5 5 5 d b . 
     . . c b d d d d d 5 5 5 b b . . 
